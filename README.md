@@ -1,1 +1,1 @@
-"# IDECD-CT" 
+# IDECD-CT
